@@ -7,15 +7,15 @@ Python offers multiple options for developing GUI (Graphical User Interface). ..
 <br>
 <p> About this project : <br><br>
 <p>
-Motivational quotes for Women, gui page using Tkinter module in python.
+Motivational quote for Women gui page using Tkinter module in python.
 </p>
 <br><br>
 
 ## 📌 Tech Stack:
-<br>
+<br><br>
 [![PYTHON](https://img.shields.io/badge/python5%20-%23E34F26.svg?&style=for-the-badge&logo=python5&logoColor=white)]
 [![Tkinter](https://img.shields.io/badge/tkinter3%20-%231572B6.svg?&style=for-the-badge&logo=tkinter3&logoColor=white)]
-<br><br><br>
+<br><br>
 
 ## 📌 Main Page:
 <br><br>
